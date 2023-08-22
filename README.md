@@ -8,10 +8,10 @@ Dataset Analysis and Reporting
 Honeypot Attack Prediction: A Statistical Model Based on Country of Origin and Time of Day
 
 Prepared for
-Dr. Maher Salem
+
 
 Prepared by:
-Anna Shirokova
+
 
 
 7CCSONAR Research Skills:  Analysis and Reporting
